@@ -39,3 +39,6 @@ Click '3' or (ctrl + c) to quit else it will keep on sending packets 😅
 
 Screenshot
 dos.png
+
+Note: I have made this in only 2 weeks, because of the reasearch and all, so if there sre any improvements, then mail me at:
+nalawaderudra1@gmail.com
